@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankur Khurana
+- 👋 Hi, I’m Ankur Khurana
 - 👀 Entry level Python Developer
 - 🌱 My current skills are - Flask , Selenium , HTML , CSS and Bootstrap 5.0
 - 💞️ I’m looking to collaborate on various projects.
