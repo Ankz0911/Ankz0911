@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankz0911
-- 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning Python
+- 👀 Entry level Python Developer
+- 🌱 My current skills are - Flask , Selenium , HTML , CSS and Bootstrap 5.0
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 You can get in touch with me by email.
 
